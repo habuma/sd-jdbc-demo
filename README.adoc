@@ -1,0 +1,5 @@
+Spring Data JDBC Example
+===
+A simple example of using Spring Data JDBC.
+
+TODO: Write more descriptive text here...
